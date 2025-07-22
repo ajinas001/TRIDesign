@@ -165,7 +165,7 @@ const MasterPlanIllustration = () => (
 // Import StatCard and illustrations
 // import StatCard, { WorkshopIllustration, GamesIllustration, DwellingsIllustration, MasterPlanIllustration } from './StatCard'; // Adjust path if needed
 
-const AboutHome = () => {
+const   AboutHome = () => {
   
   const stats = [
     {
